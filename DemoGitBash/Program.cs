@@ -11,6 +11,7 @@ namespace DemoGitBash
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("Xin chao nhanh B");
         }
     }
 }
