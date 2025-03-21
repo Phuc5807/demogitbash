@@ -1,0 +1,7 @@
+D:\DemoGit\DemoGitBash\DemoGitBash\bin\Debug\DemoGitBash.exe.config
+D:\DemoGit\DemoGitBash\DemoGitBash\bin\Debug\DemoGitBash.exe
+D:\DemoGit\DemoGitBash\DemoGitBash\bin\Debug\DemoGitBash.pdb
+D:\DemoGit\DemoGitBash\DemoGitBash\obj\Debug\DemoGitBash.csproj.AssemblyReference.cache
+D:\DemoGit\DemoGitBash\DemoGitBash\obj\Debug\DemoGitBash.csproj.CoreCompileInputs.cache
+D:\DemoGit\DemoGitBash\DemoGitBash\obj\Debug\DemoGitBash.exe
+D:\DemoGit\DemoGitBash\DemoGitBash\obj\Debug\DemoGitBash.pdb
