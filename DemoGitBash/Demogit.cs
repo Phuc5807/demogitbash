@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace DemoGitBash
 {
-    class Program
+    class Demogit
     {
-        static void Main(string[] args)
+        public void DemoCode()
         {
-            Console.WriteLine("Hello world");
-            Console.WriteLine("Xin chao");
+            Console.WriteLine("Nhanh A");
         }
     }
 }
